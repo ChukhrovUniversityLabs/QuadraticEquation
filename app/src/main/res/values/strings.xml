@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuadraticEquation</string>
+    <string name="var_a">A</string>
+    <string name="var_b">B</string>
+    <string name="var_c">C</string>
+    <string name="calculate_button">Вычислить</string>
+    <string name="result_button">Результат</string>
+    <string name="result_text">x₁ = %1$s\nx₂ = %2$s</string>
+    <string name="result_single_root_text">x = %1$s</string>
+    <string name="equation_formula">Ax² ± Bx ± C = 0</string>
+    <string name="title">Введите значения: </string>
+</resources>
